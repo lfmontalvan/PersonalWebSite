@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ig0bRi7VjfE709pxj/XhbZLV6ia3QcFMRRgES2GKf1ZvK+GOwBUoGVXvkOp9mnmcvn3wksp05P8Jr3mrwkPOIQ==",
+  "dgSpecHash": "IlBDJ1m4FTL2lUDMjlXP1ZwF/p0daP0Uf6wOTKCHiH8GMJCreDTv9LNoSjnKlmraQCGeshKQhQ5QsUl7gacEwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

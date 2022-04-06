@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj": {}
+    "c:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj": {
+    "c:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
+        "projectUniqueName": "c:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
         "projectName": "PersonalSiteWeb",
-        "projectPath": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
+        "projectPath": "c:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
         "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\obj\\",
+        "outputPath": "c:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
