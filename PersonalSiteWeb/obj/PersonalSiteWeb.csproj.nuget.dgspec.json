@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leo\\Documents\\Cursos Platzi\\Web_app_Azure\\PersonalSiteWeb\\PersonalSiteWeb.csproj": {}
+    "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leo\\Documents\\Cursos Platzi\\Web_app_Azure\\PersonalSiteWeb\\PersonalSiteWeb.csproj": {
+    "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\Web_app_Azure\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
         "projectName": "PersonalSiteWeb",
-        "projectPath": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\Web_app_Azure\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
+        "projectPath": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\PersonalSiteWeb.csproj",
         "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\Web_app_Azure\\PersonalSiteWeb\\obj\\",
+        "outputPath": "C:\\Users\\Leo\\Documents\\Cursos Platzi\\PersonalWebSite\\PersonalSiteWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",

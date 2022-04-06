@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PersonalSiteWeb
 build_property.RootNamespace = PersonalSiteWeb
-build_property.ProjectDir = C:\Users\Leo\Documents\Cursos Platzi\Web_app_Azure\PersonalSiteWeb\
+build_property.ProjectDir = C:\Users\Leo\Documents\Cursos Platzi\PersonalWebSite\PersonalSiteWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Leo\Documents\Cursos Platzi\Web_app_Azure\PersonalSiteWeb
+build_property.MSBuildProjectDirectory = C:\Users\Leo\Documents\Cursos Platzi\PersonalWebSite\PersonalSiteWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Leo/Documents/Cursos Platzi/Web_app_Azure/PersonalSiteWeb/Views/Home/Index.cshtml]
+[C:/Users/Leo/Documents/Cursos Platzi/PersonalWebSite/PersonalSiteWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leo/Documents/Cursos Platzi/Web_app_Azure/PersonalSiteWeb/Views/Home/Privacy.cshtml]
+[C:/Users/Leo/Documents/Cursos Platzi/PersonalWebSite/PersonalSiteWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leo/Documents/Cursos Platzi/Web_app_Azure/PersonalSiteWeb/Views/Shared/Error.cshtml]
+[C:/Users/Leo/Documents/Cursos Platzi/PersonalWebSite/PersonalSiteWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leo/Documents/Cursos Platzi/Web_app_Azure/PersonalSiteWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Leo/Documents/Cursos Platzi/PersonalWebSite/PersonalSiteWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leo/Documents/Cursos Platzi/Web_app_Azure/PersonalSiteWeb/Views/_ViewImports.cshtml]
+[C:/Users/Leo/Documents/Cursos Platzi/PersonalWebSite/PersonalSiteWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leo/Documents/Cursos Platzi/Web_app_Azure/PersonalSiteWeb/Views/_ViewStart.cshtml]
+[C:/Users/Leo/Documents/Cursos Platzi/PersonalWebSite/PersonalSiteWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leo/Documents/Cursos Platzi/Web_app_Azure/PersonalSiteWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/Leo/Documents/Cursos Platzi/PersonalWebSite/PersonalSiteWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-587b6ge3s3
